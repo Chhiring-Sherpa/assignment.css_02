@@ -21,6 +21,7 @@ height: 95px;
 }
 
 .search{
+margin-left:90px;
 align-items: center;
 display: flex;
 justify-content: center;
@@ -43,17 +44,16 @@ header{
 height: 100px;
 position: sticky;
 display: flex;
-justify-content: space-between;
 background-color: rgba(211, 214, 199, 0.6);
 
 }
-.navbar{
+.title{
     font-size: 30px;
     display: flex;
     margin-left: 400px;
     align-items: center;
 }
-.navbar h1 {
+.title h1 {
 font-family: cursive;
 font-weight: 400;
 font-size: 1.8rem;
@@ -64,7 +64,7 @@ text-shadow: 2px 2px 4px white;
 
 .btn{
     display: flex;
-    margin-right: 30px;
+    margin-left: 90px;
     align-items: center;
 }
 .btn a{
